@@ -1,3 +1,5 @@
+![Home — Voter register & docs](docs/images/prototype-voters-docs.png)
+
 # OpenG7 — CA: Voter Register & Official Docs (openg7-ca-voter-register-and-docs)
 
 **Languages:** [English](#english) | [Français](#francais)
